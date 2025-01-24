@@ -2,3 +2,5 @@
 Individual Assignment 2
 
 Authored By: Kevin Y. Li
+
+"Solving merge conflicts is easy!"
