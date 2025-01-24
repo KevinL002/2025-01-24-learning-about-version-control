@@ -3,4 +3,4 @@ Individual Assignment 2
 
 Authored By: Kevin Y. Li
 
-“Solving merge conflicts is soooooo hard!”
+“Solving merge conflicts takes conscious effort, but I can do it!”
